@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.servlet.HandlerExceptionResolver;
 
-@ComponentScan(basePackages = "br.com.docket.sentry.*")
+@ComponentScan(basePackages = "br.com.docket.*")
 public class SentryConfiguration {
 
 	@Bean
