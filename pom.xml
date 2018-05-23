@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<sentry.spring.version>1.6.6</sentry.spring.version>
-		<local.repository.path>/Users/cartorios/Development/douglasdocket/docket-io</local.repository.path>
+		<local.repository.path>/Users/cartorios/development/douglasdocket/docket-io</local.repository.path>
 	</properties>
 
 	<dependencies>
